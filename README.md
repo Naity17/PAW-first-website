@@ -1,10 +1,15 @@
 # PAW - Pazardjik Animal Welfare
 
-This project is part of my full stack development course at Code Institute.
+This project is part of my full stack development course at Code Institute. It 
 
 ## Demo
 
 ## UX
+
+My aim when designing this project wass to create a user-friendly website for an animal admirers, who could easily navigate through the web pages and find the information they are lookig for. 
+
+The end goal is for them to be attracted to the causes of the organization and donate to one of them.
+
 
 ## Technologies
 
@@ -16,7 +21,9 @@ This project is part of my full stack development course at Code Institute.
 
 ### Features to implement in the future
 
-With my fututre progress in the course, I would like to add a payment link, which would ease the payment efforts and encourage people to donate with onlt a couple of clicks. 
+With my fututre progress in the course, I would like to add a payment links, which would ease the efforts of the visitors and encourage them to donate with only a couple of clicks. 
+
+New dogs and their stories will be also constantly updated.
 
 ## Testing
 
